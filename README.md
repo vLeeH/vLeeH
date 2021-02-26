@@ -13,4 +13,4 @@ A few things I'm working and learning:
 - 🤖 Machine Learning 
 - 🌐 React JS
 - ⌨️ C++ Competitive 
-- :octoca: Git / Github
+- :octocat: Git / Github
