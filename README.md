@@ -1,6 +1,6 @@
 # Vitor Lee 
 
-14 years old beginner programmer 
+14 years old _beginner programmer_. 
 
 Enthusiast of python & web development technologies.
 
