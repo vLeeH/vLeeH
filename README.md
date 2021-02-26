@@ -1,16 +1,13 @@
-### Hi there 👋
+# Vitor Lee 
 
-<!--
-**vLeeH/vLeeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+14 years old beginner programmer 
 
-Here are some ideas to get you started:
+Enthusiast of python & web development technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack 
+- 🐍 Python 
+- 📅 Data Science
+- 🤖 Machine Learning 
+- 🌐 React JS
+- ⌨️ C++ Competitive 
+- :octoca: Git / Github
