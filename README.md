@@ -20,4 +20,4 @@ A few things I'm working and learning:
 ## Contact 
 Discord - `Lee. #1001` <br>
 Mail - <a>vitorlee.tech@gmail.com</a>
-![stats](https://github-readme-stats.vercel.app/api?username=vLeeH&show_icons=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=vLeeH&show_icons=true&hide_border=true">
