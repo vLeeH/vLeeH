@@ -17,7 +17,9 @@ A few things I'm working and learning:
 - ⌨️ C++ Competitive 
 - :octocat: Git / Github
 
-### Contact  
+## Contact  
 🚀 [Site](https://vleeh.github.io/)
+
 👥 [Discord](https://vleeh.github.io/src/discord.html)
+
 📧 [Email](https://vleeh.github.io/src/contact.html)
