@@ -17,7 +17,7 @@ A few things I'm working and learning:
 - ⌨️ C++ Competitive 
 - :octocat: Git / Github
 
-## Contact 
+## Contact ✉️
 - Discord - `Lee. #1001` <br>
 - Mail - <a>vitorlee.tech@gmail.com</a> 
 
