@@ -1,6 +1,4 @@
 # Vitor Lee 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/-@vitoorlee-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/vitoorlee)](https://twitter.com/vitoorlee) 
-[![Gmail Badge](https://img.shields.io/badge/-vitorlee.tech@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorlee.tech@gmail.com)](mailto:vitorlee.tech@gmail.com)
 
 14 years old <a href="https://vleeh.github.io"><i>beginner programmer.</i></a>
 
