@@ -18,5 +18,5 @@ A few things I'm working and learning:
 - :octocat: Git / Github
 
 ## Contact 
-My [website](https://vleeh.github.io) <br>
+Discord - `Lee. #1001` <br>
 Mail - <a>vitorlee.tech@gmail.com</a>
