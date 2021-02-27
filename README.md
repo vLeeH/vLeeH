@@ -18,8 +18,6 @@ A few things I'm working and learning:
 - :octocat: Git / Github
 
 ## Contact  
-🚀 [Site](https://vleeh.github.io/)
-
-👥 [Discord](https://vleeh.github.io/src/discord.html)
-
-📧 [Email](https://vleeh.github.io/src/contact.html)
+🚀 [Site](https://vleeh.github.io/) <br>
+👥 [Discord](https://vleeh.github.io/src/discord.html)<br>
+📧 [Email](https://vleeh.github.io/src/contact.html)<br>
