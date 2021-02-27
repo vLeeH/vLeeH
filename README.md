@@ -4,7 +4,7 @@
 
 🇧🇷 Born in São Paulo, Brazil
 
-Enthusiast of python & web development technologies.
+Enthusiast of Python & web development technologies.
 
 ## Stack 💻
 A few things I'm working and learning:
