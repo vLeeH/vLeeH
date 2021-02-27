@@ -2,8 +2,6 @@
 
 14 years old <a href="https://vleeh.github.io"><i>beginner programmer</i></a>
 
-🇧🇷 Born in São Paulo, Brazil.
-
 Enthusiast of Python & web development technologies.
 
 ## Stack 💻
