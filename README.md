@@ -6,6 +6,8 @@
 
 🇧🇷 Born in São Paulo, Brazil
 
+Enthusiast of python & web development technologies.
+
 ## Stack 
 A few things I'm working and learning:
 - 🐍 Python 
@@ -15,7 +17,5 @@ A few things I'm working and learning:
 - ⌨️ C++ Competitive 
 - :octocat: Git / Github
 
-Enthusiast of python & web development technologies.
-
-Studying more about Python, mostly in libraries, doing bots, Machine Learning Tools and Data Science.
-
+### Find me elsewhere  🌎
+🚀 ![Site](https://vleeh.github.io/)
