@@ -8,7 +8,7 @@
 
 Enthusiast of python & web development technologies.
 
-## Stack 
+## Stack 💻
 A few things I'm working and learning:
 - 🐍 Python 
 - 📅 Data Science
@@ -16,8 +16,3 @@ A few things I'm working and learning:
 - 🌐 React JS
 - ⌨️ C++ Competitive 
 - :octocat: Git / Github
-
-## Contact  
-🚀 [Site](https://vleeh.github.io/) <br>
-👥 [Discord](https://vleeh.github.io/src/discord.html)<br>
-📧 [Email](https://vleeh.github.io/src/contact.html)<br>
