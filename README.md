@@ -4,7 +4,7 @@
 
 Enthusiast of Python & web development technologies.
 
-## Stack 💻
+## Languages 💻
 A few things I'm working and learning:
 - 🐍 Python 
 - 📅 Data Science
