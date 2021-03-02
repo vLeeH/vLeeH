@@ -7,8 +7,7 @@ Enthusiast of Python & web development technologies.
 ## Skills 💻
 A few things I'm working and learning:
 - 🐍 Python 
-- 📅 Data Science
-- 🤖 Machine Learning 
+- 🤖 Machine Learning  /  Data Science
 - 🌐 React JS
 - ⌨️ C++ Competitive 
 - :octocat: Git / Github
