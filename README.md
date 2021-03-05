@@ -9,8 +9,8 @@ A few things I'm working and learning:
 - 🐍 Python 
 - 🤖 Machine Learning  /  Data Science
 - 🌐 React JS
-- ⌨️ C++ Competitive 
 - :octocat: Git / Github
+- ⌨️ C++ Competitive 
 
 ## Contact 
 - E-Mail - <a>vitorlee.tech@gmail.com</a> 
