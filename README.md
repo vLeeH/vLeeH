@@ -1,10 +1,10 @@
-# Vitor Lee 👨‍💻
+# _۪۪ۗۗۖ۫۫̉̑̐Vitor Lee 👨‍💻 _۪۪ۗۗۖ۫۫̉̑̐
 
 14 years old <a href="https://vleeh.github.io"><i>beginner programmer</i></a>
 
 Enthusiast of Python & web development technologies.
 
-## _۪۪ۗۗۖ۫۫̉̑̐Skills_۪۪ۗۗۖ۫۫̉̑̐ 
+## Skills 
 A few things I'm working and learning:
 - 🐍 Python 
 - 🤖 Machine Learning  /  Data Science
