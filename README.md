@@ -4,7 +4,7 @@
 
 Enthusiast of Python & web development technologies.
 
-## Skills 
+## _۪۪ۗۗۖ۫۫̉̑̐Skills_۪۪ۗۗۖ۫۫̉̑̐ 
 A few things I'm working and learning:
 - 🐍 Python 
 - 🤖 Machine Learning  /  Data Science
