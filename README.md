@@ -9,7 +9,7 @@ A few things I'm working and learning:
 - 🤖 Machine Learning  /  Data Science
 - 🌐 React JS
 - :octocat: Git / Github
-- ⌨️ C++ Competitive 
+- 💻 C++ Competitive 
 
 ## Contact 
 - E-Mail - <a>vitorlee.tech@gmail.com</a> 
