@@ -1,5 +1,5 @@
 # Vitor Lee 👨‍💻 
-14 years old <a href="https://vleeh.github.io"><i>beginner programmer</i></a>
+14 years old <a href="https://vleeh.github.io"><i>beginner programmer</i></a> and currently living in Brazil São Paulo
 
 Enthusiast of Python & web development technologies.
 
