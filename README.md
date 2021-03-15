@@ -1,7 +1,5 @@
 # Vitor Lee 👨‍💻 
-14 years old
-
-Currently living in Brazil - SP
+14 years old and currently living in Brazil - SP
 
 Enthusiast of Python & web development technologies.
 
