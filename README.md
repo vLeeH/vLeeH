@@ -3,7 +3,7 @@
 
 Enthusiast of Python & web development technologies.
 
-## ./Skills 
+## Skills 
 A few things I'm working and learning:
 - 🐍 Python 
 - 🤖 Machine Learning  /  Data Science
@@ -11,7 +11,7 @@ A few things I'm working and learning:
 - :octocat: Git / Github
 - 🔧 C++ Competitive 
 
-## ./Contact 
+## Contact 
 - E-Mail - <a>vitorlee.tech@gmail.com</a> 
 - Discord - `Lee.#1001` <br>
 
