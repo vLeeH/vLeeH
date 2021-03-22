@@ -1,5 +1,5 @@
 # Vitor Lee 👨‍💻 
-14yo Python enthusiast.
+14 years old Python enthusiast.
 
 ## Skills 
 A few things I'm working and learning:
