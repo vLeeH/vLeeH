@@ -1,5 +1,5 @@
 # vLeeH 👨‍💻 
-14 years old Python enthusiast.
+I'm Lee and i'm 14 years old a young programmer working primarily with Python!
 
 ## Skills 
 A few things I'm working and learning:
