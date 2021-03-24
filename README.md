@@ -15,4 +15,4 @@ A few things I'm working and learning:
 
 [![vLeeH's github stats](https://github-readme-stats.vercel.app/api?username=vLeeH&theme=jolly&layout=compact)](https://github.com/vLeeH/)
 <br>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vLeeH&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
