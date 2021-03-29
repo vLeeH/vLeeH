@@ -8,7 +8,6 @@ A few things I'm working and learning:
 - 🌐 React JS
 - :octocat: Git / Github
 - 🔧 C++ Competitive 
-- ⌨️ Discord Bots
 - 👥 Cybersecurity
 
 ## Contact 
