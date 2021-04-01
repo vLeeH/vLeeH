@@ -6,9 +6,9 @@ A few things i'm working with:
 - 🐍 Python 
 - 👥 Cybersecurity
 - 🤖 Machine Learning  /  Data Science
+- 🔧 C++ Competitive 
 - 🌐 React JS
 - :octocat: Git / Github
-- 🔧 C++ Competitive 
 
 ## Contact 
 - E-Mail - <a>vitorlee.tech@gmail.com</a> 
