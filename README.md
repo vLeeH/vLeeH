@@ -2,13 +2,13 @@
 I'm 14 years old, young programmer working primarily with Python.
 
 ## Skills 
-A few things I'm working and learning:
+A few things i'm working with:
 - 🐍 Python 
+- 👥 Cybersecurity
 - 🤖 Machine Learning  /  Data Science
 - 🌐 React JS
 - :octocat: Git / Github
 - 🔧 C++ Competitive 
-- 👥 Cybersecurity
 
 ## Contact 
 - E-Mail - <a>vitorlee.tech@gmail.com</a> 
