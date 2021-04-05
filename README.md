@@ -15,7 +15,7 @@ A few things i'm working with:
 - 🌐 React JS
 - :octocat: Git / Github
 
-## Contact 
+## Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&line_height=21&show_icons=true&theme=dark"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vLeeH&layout=compact&card_width=250&theme=dark"/>
