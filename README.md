@@ -8,7 +8,7 @@ A few things i'm working with:
 - 🐍 Python 
 - 👥 Cybersecurity
 - 🤖 Machine Learning  /  Data Science
-- 🔧 C++ Competitive 
+- ⌨️ C++ Competitive 
 - 🌐 React JS
 - :octocat: Git / Github
 
