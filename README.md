@@ -1,7 +1,7 @@
 # vLeeH 👨‍💻 
-I'm 14 years old young programmer, working primarily with Python.
+I'm 14 years old young programmer, working primarily with _Python_.
 
-Learning everyday.
+Learning and coding everyday.
 
 ## Skills 
 A few things i'm working with:
