@@ -17,4 +17,4 @@ A few things i'm working with:
 
 ## Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&show_icons=true&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&show_icons=true&theme=dark&show_border=false"/>
