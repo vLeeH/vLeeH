@@ -6,7 +6,7 @@ Learning everyday.
 - Discord - `Lee.#1001` <br>
 - Mail - <a href="">vitorlee.tech@gmail.com</a>
 
-## Skills 
+## Stack 
 A few things i'm working with:
 - 🐍 Python 
 - 👥 Cybersecurity
