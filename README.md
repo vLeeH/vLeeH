@@ -1,5 +1,5 @@
 # vLeeH 👨‍💻 
-<img src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/><img src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=homebrew"/>
+<img src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/><img src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=homebrew"/> <br>
 I'm 14 years old young programmer, working primarily with _Python_.
 
 Discord - `Lee.#1001` <br>
