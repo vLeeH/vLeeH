@@ -12,7 +12,7 @@ A few things i'm working with:
 - 🌐 React JS
 - :octocat: Git / Github
 - 🤖 Machine Learning  /  Data Science
-- 
+
 ## Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&show_icons=true&theme=dark&"/>
