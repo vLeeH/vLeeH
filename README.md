@@ -1,10 +1,8 @@
 # vLeeH 👨‍💻 
 I'm 14 years old young programmer, working primarily with _Python_.
 
-Learning everyday.
-
-- Discord - `Lee.#1001` <br>
-- Mail - <a href="">vitorlee.tech@gmail.com</a>
+Discord - `Lee.#1001` <br>
+Mail - <a href="">vitorlee.tech@gmail.com</a>
 
 ## Stack 
 A few things i'm working with:
