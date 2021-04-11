@@ -8,9 +8,14 @@ Mail - <a href="">vitorlee.tech@gmail.com</a>
 
 > :octocat: https://vleeh.github.io
 
-<img  src="https://visitor-badge.glitch.me/badge?page_id=vLeeH/vLeeH">
-
 ## Stats 📊
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&line_height=21&show_icons=true&theme=dark"/> &nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&line_height=21&show_icons=true&theme=dark"/> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vLeeH&layout=compact&card_width=250&theme=dark"/>
+
+
+
+
+
+
+<img  src="https://visitor-badge.glitch.me/badge?page_id=vLeeH/vLeeH">
