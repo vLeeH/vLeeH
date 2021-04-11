@@ -14,4 +14,4 @@ Mail - <a href="">vitorlee.tech@gmail.com</a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vLeeH&layout=compact&card_width=250&theme=dark"/>
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vLeeH/vLeeH)
+<img src="https://visitor-badge.glitch.me/badge?page_id=vLeeH/vLeeH">
