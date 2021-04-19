@@ -10,5 +10,5 @@ Mail - <a href="">vitorlee.tech@gmail.com</a>
 
 ## Stats 📊
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&line_height=21&show_icons=true&theme=dark"/> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vLeeH&layout=compact&card_width=250&theme=dark"/>
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&line_height=21&show_icons=true&theme=dark"/> 
+<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vLeeH&layout=compact&card_width=250&theme=dark"/>
