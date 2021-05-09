@@ -3,7 +3,7 @@
 
 Check out some of my projects below and be sure to hit me up on Discord.
 
-Discord - `Lee.#6989` <br>
+Discord - `Lee.#0520` <br>
 Mail - <a href="">vitorlee.tech@gmail.com</a>
 
 > :octocat: https://vleeh.github.io
