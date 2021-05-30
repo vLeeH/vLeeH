@@ -4,7 +4,6 @@ I'm 14 years old programmer, working primarily with _Python_.
 Check out some of my projects below and be sure to hit me up on Discord.
 
 Discord - `Lee.#3800` <br>
-Mail - <a href="">vitorlee.tech@gmail.com</a>
 
 > :octocat: https://vleeh.github.io
 
