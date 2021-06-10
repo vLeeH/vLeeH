@@ -3,7 +3,7 @@ I'm 14 years old programmer, working primarily with _Python_.
 
 Check out some of my projects below and be sure to hit me up on Discord.
 
-_Discord_ - `Lee.#3800` <br>
+_Discord_ - `Lee.#2037` <br>
 
 > :octocat: https://vleeh.github.io
 
