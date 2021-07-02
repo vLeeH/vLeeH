@@ -1,9 +1,9 @@
-# Hey there, I'm Lee 👋 
+# Hey there, I'm Vitor 👋 
 I'm 14 years old programmer, working primarily with _Python_. 
 
 Check out some of my projects below and be sure to hit me up on Discord.
 
-**Discord** - `rlee#2037` <br>
+**Discord** - `vitpr#2037` <br>
 
 > :octocat: https://vleeh.github.io
 
