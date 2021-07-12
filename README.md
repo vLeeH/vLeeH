@@ -10,6 +10,6 @@ Check out some of my projects below and be sure to hit me up on Discord.
 
 ## Stats
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&line_height=21&show_icons=true&theme=dracula&hide_border=true"/> <img align="" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vLeeH&layout=compact&card_width=250&theme=dracula&hide_border=true"/>
-
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=vLeeH&count_private=true&line_height=21&show_icons=true&theme=dracula&hide_border=true"/> <img align="" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vLeeH&layout=compact&card_width=250&theme=dracula&hide_border=true"/> 
+<br><br><br>
 ![visitors](https://komarev.com/ghpvc/?username=vLeeH&color=blue)
